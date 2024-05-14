@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/softswiss/static/css/main.aaddadf4.css",
+    "main.js": "/softswiss/static/js/main.7a61027d.js",
+    "static/js/453.ed3810f9.chunk.js": "/softswiss/static/js/453.ed3810f9.chunk.js",
+    "static/media/header_base_x3.png": "/softswiss/static/media/header_base_x3.0f8d6498b1d50ad4abf4.png",
+    "static/media/header_base_x2.png": "/softswiss/static/media/header_base_x2.712184a8294de1379042.png",
+    "static/media/offer_3.svg": "/softswiss/static/media/offer_3.e45facf7130fba39c0e00710b4ab6da1.svg",
+    "static/media/header_base.png": "/softswiss/static/media/header_base.bc06d52398da018e7828.png",
+    "static/media/header_earth_x3.png": "/softswiss/static/media/header_earth_x3.53b9590ee80fabefacac.png",
+    "static/media/offer_4.svg": "/softswiss/static/media/offer_4.95331ddbf441ff7ccdfb00ec9570dbe3.svg",
+    "static/media/header_earth_x2.png": "/softswiss/static/media/header_earth_x2.04c594d8dabdaa97d221.png",
+    "static/media/offer_1.svg": "/softswiss/static/media/offer_1.fd3a30d2f5ae36e3c23fd8446000fa0c.svg",
+    "static/media/offer_2.svg": "/softswiss/static/media/offer_2.2d331a9ab66fee44451777d2dc29e4ee.svg",
+    "static/media/header_earth.png": "/softswiss/static/media/header_earth.1a1e173c408eb64346f0.png",
+    "static/media/logo.svg": "/softswiss/static/media/logo.8041cf25530acf632e03999322bf5976.svg",
+    "index.html": "/softswiss/index.html",
+    "main.aaddadf4.css.map": "/softswiss/static/css/main.aaddadf4.css.map",
+    "main.7a61027d.js.map": "/softswiss/static/js/main.7a61027d.js.map",
+    "453.ed3810f9.chunk.js.map": "/softswiss/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaddadf4.css",
+    "static/js/main.7a61027d.js"
+  ]
+}
